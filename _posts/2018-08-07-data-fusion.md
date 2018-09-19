@@ -10,7 +10,9 @@ redirect_from:
 
 >  导航定位中的数据融合算法
 
-[TOC]
+
+* Kramdown table of contents
+{:toc .toc}
 
 # IMU与里程计融合
 
@@ -99,7 +101,6 @@ Copyleft! 2018 Yuqing Cao. Some rights reserved.
 [基于全景视觉与里程计的移动机器人自定位方法研究](http://robolab.sjtu.edu.cn/kindeditor/Upload/file/20170830/20170830163343_0805.pdf)
 
 [基于不确定性分析的视觉里程计优化](http://www.zjujournals.com/eng/CN/abstract/abstract11697.shtml)
-
 
 ------
 ## License
